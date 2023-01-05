@@ -1,0 +1,17 @@
+Kitapta yer alan "ALLAH" kelimesinin tekrar listesinde mevcut olan hataları ve düzeltisi:
+(Soldaki ilk sütun sıra numarasıdır, ikinci sütun Sure, üçüncü ise
+Ayet numaraları olup parantez içindeki sayılar ise düzeltilerdir).
+
+Sıra No.    Sure    Ayet No.    Düzelti
+  1120       9        15        (ekle)
+  1271       9       127        (1272)
+  1273       9       129        (çıkar)
+  1672       22       60        (çıkar)
+  1792       25       68        (ekle)
+  2220       40       74        (ekle)
+  2306       46       23        (çıkar)
+  2310       46       33        (ekle)
+  2457       58        4        (çıkar)
+
+Yukarıda görüldüğü gibi, basım hatalarında 4 ekleme ve 4 çıkarma yapıldı.
+Demek ki, Ültimatom suresinin sonuna ekleneni çıkarırsak sonuç 2698 (19x142) olur.
